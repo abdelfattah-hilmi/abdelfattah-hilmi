@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abdelfattah-hilmi
-- 👀 I’m interested in Devops and Cloud native dev 
-- 🌱 I’m currently learning Ansible, Terraform and Kubernetes
-- 📫 How to reach me hilmiabdelfattah@gmail.com
+- 👀 I’m a cloud and devops engineer  
+- 📫 How to reach me ? hilmiabdelfattah@gmail.com
 
 
 ```toml
